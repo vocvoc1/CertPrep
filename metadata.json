@@ -1,0 +1,5 @@
+{
+  "name": "Exam trivia app",
+  "description": "Offline-first mobile trivia application for certification exam practice.",
+  "requestFramePermissions": []
+}
